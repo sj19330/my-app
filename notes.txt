@@ -1,0 +1,3 @@
+To do next: 
+- figure out how to pass data between pages (expo navigation)
+- implement a simple sqlite database
