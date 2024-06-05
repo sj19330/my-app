@@ -1,6 +1,7 @@
 # This is an app to help me understand passing data between pages and using databases
 
-To do next:
+_To do next:_
 
-- figure out how to pass data between pages (expo navigation)
-- implement a simple sqlite database
+> - figure out how to pass data between pages (expo navigation)
+>
+> - implement a simple sqlite database
